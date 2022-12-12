@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoffeeOrderingMachine</string>
+    <string name="chocolate">chocolate</string>
+    <string name="cream">Cream</string>
+</resources>
